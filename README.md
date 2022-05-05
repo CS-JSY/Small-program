@@ -1,5 +1,5 @@
 # Small-program
-## Code repository for small batch requirements in common liffe, writed by CS-JSY.
+## Code repository for small batch requirements in common life, writed by CS-JSY.
 
 TM-nameextracter.py is the name of Tencent conference background files for extraction procedures， written in Python.
 TM-nameextracter.py是腾讯会议后台文件的名称提取程序，用Python编写。
